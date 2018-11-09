@@ -4,6 +4,7 @@ public class hello {
         
         // greetings("Shovon Das");
         greetings("git");
+        name("HM");
         }
 
     
@@ -12,4 +13,8 @@ public static void greetings(String[] name){
 }
 
 // testing perpose
+
+void show(string name){
+    System.out.println(name);
+}
 }
