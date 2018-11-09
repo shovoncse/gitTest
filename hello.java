@@ -17,4 +17,5 @@ public static void greetings(String[] name){
 void show(string name){
     System.out.println(name);
 }
+
 }
